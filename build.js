@@ -67,6 +67,7 @@ return Promise.resolve()
         // See https://github.com/rollup/rollup/wiki/JavaScript-API#external for more.
         '@angular/core',
         '@angular/common',
+        '@angular/router',
         '@betadigitalproduction/ngx-platform-service',
       ],
       plugins: [
